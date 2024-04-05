@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "623255573679",
+    "project_id": "classroom-booking-app-1a562",
+    "storage_bucket": "classroom-booking-app-1a562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623255573679:android:7e373929d96c0cb44d705a",
+        "android_client_info": {
+          "package_name": "com.example.classroom_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDba2gWrJ3lNXK_sAWsfDIQN9APL-CPoqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623255573679:android:6cbbcbb3c1946d6f4d705a",
+        "android_client_info": {
+          "package_name": "com.example.s026_s008_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDba2gWrJ3lNXK_sAWsfDIQN9APL-CPoqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

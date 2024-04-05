@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Classroom_booking</string>
+    <string-array name="floors">
+        <item>Select</item>
+        <item>1st floor</item>
+        <item>2nd floor</item>
+        <item>3rd floor</item>
+    </string-array>
+
+</resources>
